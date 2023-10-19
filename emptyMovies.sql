@@ -1,0 +1,9 @@
+delete from actors;
+delete from actor_known_titles;
+delete from actor_professions;
+delete from movieTitles;
+delete from movieInfo;
+delete from movieCrew;
+delete from episodes;
+delete from crewInfo;
+delete from movieRatings;
